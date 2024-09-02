@@ -1,4 +1,4 @@
-# TeaPot
-Telegram bot for making recordies of your tea parties.
+# Habit Guru
+Telegram bot for habit tracking.
 
 Written on Python, Aiogram3, SQLite3
